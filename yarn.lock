@@ -4118,6 +4118,13 @@ react-dom@^16.8.4:
     prop-types "^15.6.2"
     scheduler "^0.16.2"
 
+react-icons@^3.7.0:
+  version "3.7.0"
+  resolved "https://registry.npm.taobao.org/react-icons/download/react-icons-3.7.0.tgz#64fe46231fabfeea27895edeae6c3b78114b8c8f"
+  integrity sha1-ZP5GIx+r/uoniV7ermw7eBFLjI8=
+  dependencies:
+    camelcase "^5.0.0"
+
 react-is@^16.8.1:
   version "16.10.2"
   resolved "https://registry.npm.taobao.org/react-is/download/react-is-16.10.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-is%2Fdownload%2Freact-is-16.10.2.tgz#984120fd4d16800e9a738208ab1fba422d23b5ab"
